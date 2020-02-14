@@ -1,0 +1,20 @@
+{
+  "name": "automesh-backend",
+  "version": "1.0.0",
+  "description": "Backend for the proof-of-concept Automesh IOT system.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojotastic777/automesh-backend.git"
+  },
+  "author": "jojotastic777",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/jojotastic777/automesh-backend/issues"
+  },
+  "homepage": "https://github.com/jojotastic777/automesh-backend#readme"
+}
